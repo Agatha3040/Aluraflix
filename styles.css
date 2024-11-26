@@ -1,0 +1,197 @@
+<>Agatha.html
+body {
+    color:rgb(19, 1, 1);
+    background: rgb(139, 3, 3);
+}
+/* código omitido */
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+}
+/* código omitido */
+
+header {
+    border: solid 2px rgb(12, 107, 231);
+}
+body {
+    color: rgb(236, 3, 3);
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(13, 113, 243);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+header {
+    border: solid 2px rgb(42, 122, 228);
+}
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+}
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+}
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+}
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}element.style {
+    background: red;
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(15, 112, 238);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}element.style {
+}
+section {
+    background: rgb(239, 235, 243);
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}body {
+    color: rgb(234, 228, 228);
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(4, 73, 164);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(81, 144, 226);
+}
+
+section {
+    background: rgb(160, 102, 222);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}element.style {
+    padding-bottom: 80px;
+}
+section {
+    background: rgb(183, 119, 250);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    ~~display: block;~~
+    unicode-bidi: isolate;
+}/* código omitido */
+
+section {
+    background: rgb(182, 113, 255);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
+}/* código omitido */
+
+section {
+    background: rgb(174, 118, 235);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 20px;
+}section {
+    background: rgb(126, 55, 201);
+}/* código omitido */
+
+img {
+    height: 100px;
+}/* código omitido */
+
+img {
+    height: 200px;
+}/* código omitido */
+
+.categoria-videos {
+    display: flex;
+}
+
+/* código omitido *//* código omitido */
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+}
+
+/* código omitido *//* código omitido */
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+/* código omitido *//* código omitido */
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* código omitido *//* código omitido */
+
+.chamada {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+/* código omitido *//* código omitido */
+
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+}
